@@ -6,7 +6,6 @@ I'm Efekan from Turkey, I want to be Developer. I really enjoy learning language
 
 Skills: Python/ JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EfekanSalman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Efekansalman)  
