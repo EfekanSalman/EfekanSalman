@@ -1,5 +1,5 @@
 ### Hi there 👋, Efekan Salman
-#### Software Developer
+#### If you give a man a gun, he can rob a bank, but if you give a man a bank, he can rob the world.
 ![Software Developer](https://i.pinimg.com/originals/d1/99/85/d19985b7a77bd7824730536b2d2f57bd.jpg)
 
 I'm Efekan from Turkey, I want to be Software Developer. I really enjoy learning programming languages 
