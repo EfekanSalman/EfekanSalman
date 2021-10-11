@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Efekan Salman
+#### Software Developer
+![Software Developer](https://i.pinimg.com/originals/d1/99/85/d19985b7a77bd7824730536b2d2f57bd.jpg)
 
-<!--
-**EfekanSalman/EfekanSalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Efekan from Turkey, I want to be Developer. I really enjoy learning languages. My Twitter account:https://twitter.com/Efekansalman
 
-Here are some ideas to get you started:
+Skills: Python/ JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EfekanSalman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Efekansalman)  
+
