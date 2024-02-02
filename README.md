@@ -4,7 +4,7 @@
 
 I'm Efekan from Turkey, I want to be Software Developer. I really enjoy learning programming languages 
 
-Skills: Python/ JavaScript / HTML / CSS / C
+Skills: Python/ JavaScript / HTML / CSS / C / Java
 
 
 
