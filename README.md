@@ -75,7 +75,11 @@ I am currently studying at Gelişim University, focusing on computer science, so
 
 ## Blog
 
-{https://medium.com/@efekansalman}
+<div align="center">
+<a href="https://medium.com/https://medium.com/@efekansalman" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## Connect with Me
 
