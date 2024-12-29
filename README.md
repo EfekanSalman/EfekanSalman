@@ -59,8 +59,8 @@ I am currently studying at Gelişim University, focusing on computer science, so
 
 ## Top Projects
 
-- [Snake Game](https://github.com/EfekanSalman/Snake-Game-): Classic Snake Game implemented in C. A simple console-based game with features including score tracking and speed adjustment. ⭐️ 0 Stars
-- [Restoran Otomasyon](https://github.com/EfekanSalman/restoranOtomasyon): A restaurant management system written in Java for console use. ⭐️ 0 Stars
+- [Snake Game in C](https://github.com/EfekanSalman/Snake-Game-): Classic Snake Game implemented in C. A simple console-based game with features including score tracking and speed adjustment. ⭐️ 0 Stars
+- [Snake Game in Python](https://github.com/EfekanSalman/SnakeGame): A modern implementation of the classic Snake game using Python's Turtle graphics library, featuring power-ups and enhanced gameplay mechanics. ⭐️ 0 Stars
 - [Vending Machine](https://github.com/EfekanSalman/Vending-Machine): Simple Java-based vending machine simulation with a GUI. ⭐️ 0 Stars
 - [Space Orbit System](https://github.com/EfekanSalman/Space-Orbit-System): Simulation of space orbits in C. ⭐️ 0 Stars
 - [Hotel Management System](https://github.com/EfekanSalman/-Hotel-Management-System-in-C): A simple hotel management system written in C. ⭐️ 0 Stars
