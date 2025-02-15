@@ -1,98 +1,46 @@
 ## Hi there! 👋
 
-My name is **Efekan** and I'm a dedicated student at Gelişim University, passionate about programming and software development. I love building projects that not only challenge my skills but also bring joy to users.
+I'm Efekan, a passionate student at Gelişim University, exploring the world of programming and software development. I love creating innovative solutions and learning new technologies.
 
 ## About Me
 
-I am currently studying at Gelişim University, focusing on computer science, software engineering and machine learning. 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EfekanSalman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EfekanSalman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
+Currently studying at Gelişim University, I am focused on enhancing my programming skills and building practical projects. I thrive in environments that challenge my creativity and problem-solving abilities.
 
 ## Skills & Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
+java,c,html,css,git,docker,visualstudio,spring,postgres,mysql,mongodb,postman,pytorch,opencv,py,eclipse,cs,dotnet
 
 ## Top Projects
 
-- [Snake Game in C](https://github.com/EfekanSalman/Snake-Game-): Classic Snake Game implemented in C. A simple console-based game with features including score tracking and speed adjustment. ⭐️ 0 Stars
-- [Snake Game in Python](https://github.com/EfekanSalman/SnakeGame): A modern implementation of the classic Snake game using Python's Turtle graphics library, featuring power-ups and enhanced gameplay mechanics. ⭐️ 0 Stars
-- [Vending Machine](https://github.com/EfekanSalman/Vending-Machine): Simple Java-based vending machine simulation with a GUI. ⭐️ 0 Stars
-- [Space Orbit System](https://github.com/EfekanSalman/Space-Orbit-System): Simulation of space orbits in C. ⭐️ 0 Stars
-- [Hotel Management System](https://github.com/EfekanSalman/-Hotel-Management-System-in-C): A simple hotel management system written in C. ⭐️ 0 Stars
+- [BiletSatisOtomasyonu](https://github.com/EfekanSalman/BiletSatisOtomasyonu) - Java tabanlı etkinlik bileti yönetim sistemi. **Stars:** 0, **Language:** Java, **Forks:** 0, **Issues:** 0
+- [SnakeGame](https://github.com/EfekanSalman/SnakeGame) - A modern implementation of the classic Snake game. **Stars:** 0, **Language:** Python, **Forks:** 0, **Issues:** 0
+- [Vending-Machine](https://github.com/EfekanSalman/Vending-Machine) - Java-based vending machine simulation with a GUI. **Stars:** 0, **Language:** Java, **Forks:** 0, **Issues:** 0
+- [RestaurantManagmentSystem](https://github.com/EfekanSalman/RestaurantManagmentSystem) - Console-based restaurant menu application. **Stars:** 0, **Language:** C, **Forks:** 0, **Issues:** 0
+- [restoranOtomasyon](https://github.com/EfekanSalman/restoranOtomasyon) - Java-based restaurant automation system. **Stars:** 0, **Language:** Java, **Forks:** 0, **Issues:** 0
 
 ## GitHub Stats
 
-🔹 **Public Repositories:** 19
-🔹 **Followers:** 0
-🔹 **Following:** 16
+🔭 **Public Repositories:** 20 
+👥 **Followers:** 1 
+👤 **Following:** 23 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfekanSalman&show_icons=true&theme=radical)
 
-## Blog
+## Recent Activity
 
-<div align="center">
-<a href="https://medium.com/https://medium.com/@efekansalman" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
+- ⭐ Watched [Hexeption/MCP-Reborn](https://github.com/Hexeption/MCP-Reborn) on **February 14, 2025**.
+- ⭐ Watched [AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project](https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project) on **February 7, 2025**.
+- ⭐ Watched [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) on **January 28, 2025**.
+- ⭐ Watched [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) on **January 26, 2025**.
+- ⭐ Watched [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) on **January 25, 2025**.
+
+## Latest Blog Posts
+
+https://medium.com/@efekansalman
 
 ## Connect with Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/efekan-salman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Bulowski" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
+{https://www.linkedin.com/in/efekan-salman/}
 
 ## Certifications
 
@@ -103,8 +51,3 @@ I am currently studying at Gelişim University, focusing on computer science, so
 - [Nmap İle Ağ Keşfi-en Çok Kullanılan Etik Hacking Aracı](https://www.udemy.com/certificate/UC-33f98ffe-4308-4e42-ada1-e34c150d72dd/) - Udemy, 2024
 - [Java ile Programlamaya Giriş](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=GoDfnkn4O8) - BTK akademi, 2024
 - [Siber Güvenlikte Linux İşletim Sistemleri](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=oJpS7d7VXl) - BTK akademi, 2024
-
-
-
-
-
