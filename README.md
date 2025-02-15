@@ -40,7 +40,7 @@ https://medium.com/@efekansalman
 
 ## Connect with Me
 
-{https://www.linkedin.com/in/efekan-salman/}
+https://www.linkedin.com/in/efekan-salman/
 
 ## Certifications
 
