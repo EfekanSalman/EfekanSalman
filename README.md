@@ -1,38 +1,34 @@
 ## Hi there! 👋
 
-I'm Efekan, a passionate student at Gelişim University, exploring the world of programming and software development. I love creating innovative solutions and learning new technologies.
+I'm Efekan, a passionate student at Gelişim University, diving deep into the world of software development and technology. I love tackling complex problems and turning ideas into reality through code!
 
 ## About Me
 
-Currently studying at Gelişim University, I am focused on enhancing my programming skills and building practical projects. I thrive in environments that challenge my creativity and problem-solving abilities.
+I am currently a student, specializing in software development. My journey in programming has led me to explore various technologies and frameworks, particularly focusing on Java and Python. I'm always eager to learn and grow in this fast-paced field. 
 
 ## Skills & Technologies
 
-java,c,html,css,git,docker,visualstudio,spring,postgres,mysql,mongodb,postman,pytorch,opencv,py,eclipse,cs,dotnet
+java,spring,mysql,html,css,git,docker,github,c
 
 ## Top Projects
 
-- [BiletSatisOtomasyonu](https://github.com/EfekanSalman/BiletSatisOtomasyonu) - Java tabanlı etkinlik bileti yönetim sistemi. **Stars:** 0, **Language:** Java, **Forks:** 0, **Issues:** 0
-- [SnakeGame](https://github.com/EfekanSalman/SnakeGame) - A modern implementation of the classic Snake game. **Stars:** 0, **Language:** Python, **Forks:** 0, **Issues:** 0
-- [Vending-Machine](https://github.com/EfekanSalman/Vending-Machine) - Java-based vending machine simulation with a GUI. **Stars:** 0, **Language:** Java, **Forks:** 0, **Issues:** 0
-- [RestaurantManagmentSystem](https://github.com/EfekanSalman/RestaurantManagmentSystem) - Console-based restaurant menu application. **Stars:** 0, **Language:** C, **Forks:** 0, **Issues:** 0
-- [restoranOtomasyon](https://github.com/EfekanSalman/restoranOtomasyon) - Java-based restaurant automation system. **Stars:** 0, **Language:** Java, **Forks:** 0, **Issues:** 0
+- [Library-automation](https://github.com/EfekanSalman/Library-automation): A Spring Boot application for managing a library. ⭐ 0 stars, Language: Java, Forks: 0, Issues: 0
+- [BiletSatisOtomasyonu](https://github.com/EfekanSalman/BiletSatisOtomasyonu): A comprehensive ticket management system built with Java Swing. ⭐ 0 stars, Language: Java, Forks: 0, Issues: 0
+- [SnakeGame](https://github.com/EfekanSalman/SnakeGame): A modern remake of the classic Snake game using Python's Turtle graphics library. ⭐ 0 stars, Language: Python, Forks: 0, Issues: 0
 
 ## GitHub Stats
 
-🔭 **Public Repositories:** 20 
-👥 **Followers:** 1 
-👤 **Following:** 23 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfekanSalman&show_icons=true&theme=radical)
+🔭 **Public Repositories:** 21  
+👥 **Followers:** 1  
+👤 **Following:** 25  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfekanSalman&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## Recent Activity
 
-- ⭐ Watched [Hexeption/MCP-Reborn](https://github.com/Hexeption/MCP-Reborn) on **February 14, 2025**.
-- ⭐ Watched [AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project](https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project) on **February 7, 2025**.
-- ⭐ Watched [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) on **January 28, 2025**.
-- ⭐ Watched [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) on **January 26, 2025**.
-- ⭐ Watched [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) on **January 25, 2025**.
+- **March 23, 2025**: Pushed updates to [Library-automation](https://github.com/EfekanSalman/Library-automation) - refactor: added most borrowed and overdue users calculation.
+- **March 22, 2025**: Pushed updates to [Library-automation](https://github.com/EfekanSalman/Library-automation) - added exception handling package and classes.
+- **March 21, 2025**: Created README for the Library automation project.
+- **March 20, 2025**: Starred the [zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle) repository.
 
 ## Latest Blog Posts
 
@@ -41,6 +37,8 @@ https://medium.com/@efekansalman
 ## Connect with Me
 
 https://www.linkedin.com/in/efekan-salman/
+
+https://www.youtube.com/@Bulowski
 
 ## Certifications
 
