@@ -5,7 +5,6 @@
 <p><em>A passionate Computational Neuroscience Explorer focused on simulating artificial consciousness, neural decision-making, and biologically inspired systems through code. With a background in computer programming and a deep curiosity for how the brain works, I bridge neuroscience with technology.</em></p>
 
 <img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
 
 </div>
 
